@@ -1,10 +1,10 @@
-.flex{
-display:flex;
-justify-contect:center;
-align-item:center;
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
-.f_sb{
-  display:flex;
-  justify-contect:space-between;
-  align-item:center;
+.f_sb {
+    display: flex;
+    justify-contect: space-between;
+    align-item: center;
 }
