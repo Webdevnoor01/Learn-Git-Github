@@ -5,6 +5,6 @@
 }
 .f_sb {
     display: flex;
-    justify-contect: space-between;
-    align-item: center;
+    justify-content: space-between;
+    align-items: center;
 }
