@@ -3,3 +3,8 @@ display:flex;
 justify-contect:center;
 align-item:center;
 }
+.f_sb{
+  display:flex;
+  justify-contect:space-between;
+  align-item:center;
+}
